@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://unbought-reviews.netlify.app/sitemap.xml
