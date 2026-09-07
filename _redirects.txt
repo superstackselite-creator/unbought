@@ -1,0 +1,2 @@
+/settings.html  /settings.html  200
+/*  /index.html  200
